@@ -1,0 +1,3 @@
+Producto 1: Manzana
+Producto 2: Banana
+Producto 3: Uva
